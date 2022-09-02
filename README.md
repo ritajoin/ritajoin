@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rita, a so-called digital nomad. Currently living in Cyprus.
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning javascript.
